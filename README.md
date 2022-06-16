@@ -1,29 +1,19 @@
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
-&&&&&&&&&&&
-&EDIT THIS&
-&&&&&&&&&&&
-This is a simple web application showcasing my command of HTML and CSS.
+This is a very basic form/clone of Airbnb's experience web page. The goal of this project is to apply proper usage of component props when you have a standalone data. In this case, I used a JSON like data for 3 different Airbnb experiences.
 
 ## The challenge
-&&&&&&&&&&&
-&EDIT THIS&
-&&&&&&&&&&&
-The main challenge here is laying out the cards in a three column design and make it responsive according to the user screen.
+
+The main challenge here is to display three technically different cards using the same component.
 
 ## My solution
-&&&&&&&&&&&
-&EDIT THIS&
-&&&&&&&&&&&
-I started building with the three main cards on top of each other, considering the mobile design first. Once everything is settled for the mobile screens, I then added media queries
-and reorganized the cards horizontally, forming a one big card the contains the three smaller cards as its columns. From there, it was just a matter of scaling the size the main card
-according to the size of the screen.
+
+To solve the challenge, I used Array Mapping to render three instances of the Card component while passing each array element as props.
+
+![screenshot of my solution](https://i.ibb.co/jT7JTMP/mapreact.png)
 
 ## Technologies used
-&&&&&&&&&&&
-&EDIT THIS&
-&&&&&&&&&&&
+
 - React
 - JS
 - HTML
@@ -34,7 +24,7 @@ according to the size of the screen.
 
 ## Preview
 
-![Actual preview for my project - Desktop](./design/actual-desktop.png)
+![Actual preview for my project - Desktop](https://i.ibb.co/6DzHJkN/airbnb-clone-preview.png)
 
 ## Deployment
 
@@ -42,7 +32,8 @@ You may visit the deployed web app through the link below.
 &&&&&&&&&&&
 &EDIT THIS&
 &&&&&&&&&&&
-- [SITE](LINKTOSITE)
+
+- [https://amiralles-react-airbnb-basic-clone.netlify.app/](https://amiralles-react-airbnb-basic-clone.netlify.app/)
 
 ## Footnote
 
