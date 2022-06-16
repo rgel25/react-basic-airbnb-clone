@@ -30,8 +30,6 @@ To solve the challenge, I used Array Mapping to render three instances of the Ca
 
 You may visit the deployed web app through the link below.
 &&&&&&&&&&&
-&EDIT THIS&
-&&&&&&&&&&&
 
 - [https://amiralles-react-airbnb-basic-clone.netlify.app/](https://amiralles-react-airbnb-basic-clone.netlify.app/)
 
