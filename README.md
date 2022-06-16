@@ -29,7 +29,6 @@ To solve the challenge, I used Array Mapping to render three instances of the Ca
 ## Deployment
 
 You may visit the deployed web app through the link below.
-&&&&&&&&&&&
 
 - [https://amiralles-react-airbnb-basic-clone.netlify.app/](https://amiralles-react-airbnb-basic-clone.netlify.app/)
 
